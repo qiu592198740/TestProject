@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+build
+.externalNativeBuild
+checkstyle.xml
+codestyle_suppressions.xml
+/subprojects/*/src/main/jniLibs/
+/build-api
